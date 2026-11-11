@@ -1,0 +1,6 @@
+pycache/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+*.csv
